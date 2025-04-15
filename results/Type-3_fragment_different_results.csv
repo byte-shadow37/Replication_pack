@@ -24,7 +24,7 @@
 518-3-10,Type-3,compilation error,compilation error,No,No,
 518-3-12,Type-3,Yes,tests fail,No,No,
 518-3-13,Type-3,Yes,tests fail,No,No,
-527-2-8,Type-3,Yes,Yes,Yes,No,"two clones don't have common super class, need to create a third class manually to write the extracted method"
+527-2-8,Type-3,Yes,Yes,Yes,No,
 539-1-3,Type-3,compilation error,compilation error,No,No,
 539-2-3,Type-3,compilation error,compilation error,No,No,
 573-1-2,Type-2,Yes,Yes,Yes,No,

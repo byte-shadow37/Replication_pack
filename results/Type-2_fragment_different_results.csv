@@ -26,7 +26,7 @@
 358-1-2,Type-3,Yes,Yes,Yes,Yes,gpt refactor more lines than clone
 375-1-2,Type-2,Yes,Yes,Yes,Yes,
 383-1-2,Type-2,Yes,Yes,Yes,Yes,
-384-1-2,Type-3,still have clones in extracted method,still have clones in extracted method,No,No,
+384-1-2,Type-3,still have clones in extracted method,still have clones in extracted method,No,No,incomplete refactoring
 390-1-2,Type-2,Yes,tests fail,No,Yes,
 415-1-2,Type-2,Yes,Yes,No,No,gpt didn't refactor the whole clone
 421-1-2,Type-3,compilation error,compilation error,No,No,
@@ -121,7 +121,7 @@
 945-1-2,Type-1,compilation error,compilation error,No,No,
 955-1-2,Type-2,compilation error,compilation error,No,No,
 963-1-2,Type-2,Yes,Yes,Yes,No,
-963-2-3,Type-1,gpt didn't refactor the clone,gpt didn't refactor the clone,No,No,
+963-2-3,Type-1,gpt didn't refactor the clone,gpt didn't refactor the clone,No,No,incomplete refactoring
 969-2-3,Type-3,compilation error,compilation error,No,No,
 969-2-4,Type-3,compilation error,compilation error,No,No,
 969-3-4,Type-3,Yes,Yes,Yes,Yes,gpt refactor more lines than clone
@@ -137,7 +137,7 @@
 1013-2-4,Type-3,compilation error,compilation error,No,No,
 1021-1-2,Type-3,compilation error,compilation error,No,No,
 1022-1-2,Type-2,compilation error,compilation error,No,No,
-1022-1-3,Type-2,gpt didn't refactor the clone,gpt didn't refactor the clone,No,No,
+1022-1-3,Type-2,gpt didn't refactor the clone,gpt didn't refactor the clone,No,No,incomplete refactoring
 1022-3-4,Type-2,Yes,Yes,Yes,No,
 1023-1-4,Type-2,Yes,Yes,Yes,Yes,
 1023-2-3,Type-2,Yes,Yes,Yes,Yes,

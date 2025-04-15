@@ -47,7 +47,7 @@
 1415-3-4,Type-3,Yes,Yes,Yes,Yes,
 1595-1-2,Type-3,Yes,Yes,Yes,No,
 1629-1-2,Type-3,Yes,Yes,Yes,No,
-1714-3-4,Type-3,Yes,Yes,No,No,
+1714-3-4,Type-3,Yes,Yes,No,No,"GPT include all the clones in extracted method, which cause extracted method contains clones"
 1729-2-4,Type-3,compilation error,compilation error,No,No,
 1729-2-5,Type-3,compilation error,compilation error,No,No,
 1729-3-4,Type-3,compilation error,compilation error,No,No,
